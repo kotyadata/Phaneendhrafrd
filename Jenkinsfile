@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/raohus/terraform-node-ci.git'
+                git 'https://github.com/kotyadata/Phaneendhrafrd.git'
             }
         }
 
